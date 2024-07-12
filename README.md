@@ -1,2 +1,2 @@
 # cards
- cards game html css js
+ cards game using html css js
